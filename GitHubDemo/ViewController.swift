@@ -11,6 +11,7 @@ class ViewController: UIViewController {
 
     var anzor = "Anzor Commit"
     var second = "SecondCommit"
+    var muslimCommit = "Commit"
     var commitVar = "CommitVar"
     override func viewDidLoad() {
         super.viewDidLoad()
