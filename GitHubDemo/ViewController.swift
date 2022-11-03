@@ -8,7 +8,7 @@
 import UIKit
 
 class ViewController: UIViewController {
-
+    var husayn = "Husayn Commit"
     var anzor = "Anzor Commit"
     var second = "SecondCommit"
     var muslimCommit = "Commit"
