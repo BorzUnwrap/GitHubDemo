@@ -8,7 +8,8 @@
 import UIKit
 
 class ViewController: UIViewController {
-
+    
+    var forcePush = "forcepushAmend2"
     var anzor = "Anzor Commit"
     var second = "SecondCommit"
     var muslimCommit = "Commit"
