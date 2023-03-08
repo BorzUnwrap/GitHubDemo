@@ -18,6 +18,7 @@ class ViewController: UIViewController {
     let ergerg = 345435435
     let dfbb = 34345
     var kjenf = 34
+    var brans = "thnthn"
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
