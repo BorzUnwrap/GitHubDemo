@@ -17,6 +17,7 @@ class ViewController: UIViewController {
     var commitVar = "CommitVar"
     let ergerg = 345435435
     let dfbb = 34345
+    var kjenf = 34
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
