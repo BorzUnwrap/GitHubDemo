@@ -22,6 +22,15 @@ class ViewController: UIViewController {
     var asdasdasd = 32
     var asdssdsd = 56567
     let asaaasd = "ASdasdasd"
+        
+    private lazy var titleLabel: UILabel = {
+        let label = UILabel()
+        label.font = UIFont.boldSystemFont(ofSize: 40)
+        label.text = "Premium cars." + "\n" + "Enjoy the luxury."
+        label.numberOfLines = 0
+        label.textColor = .white
+        return label
+    }()
     
     override func viewDidLoad() {
         super.viewDidLoad()
