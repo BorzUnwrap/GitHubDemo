@@ -19,6 +19,10 @@ class ViewController: UIViewController {
     let asdasd = 121212
     var sadsdas = 231231
     
+    var asdasdasd = 32
+    var asdssdsd = 56567
+    let asaaasd = "ASdasdasd"
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
