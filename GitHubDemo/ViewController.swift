@@ -13,6 +13,11 @@ class ViewController: UIViewController {
     var second = "SecondCommit"
     var muslimCommit = "Commit"
     var commitVar = "CommitVar"
+    
+    
+    func aasd() -> Void {
+        
+    }
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
